@@ -1,1 +1,1 @@
-add_lunch_combo aicp_m7-userdebug
+add_lunch_combo bliss_m7-userdebug
